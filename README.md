@@ -56,7 +56,7 @@ I will review and merge your contributions if they align with the project's obje
 
 To explore the project and view the code, findings, and insights, please visit the project file:
 
-👉 [Explore the Project]([YourGitHubLink](https://github.com/Muhammad-Rayyan1/Walmart-Sales-Analysis-Using-SQL/blob/main/walmartsalesanalysis.sql))
+👉 [Explore the Project (SQL File)](https://github.com/Muhammad-Rayyan1/Walmart-Sales-Analysis-Using-SQL/blob/main/walmartsalesanalysis.sql)
 
 Thank you for your interest in the project. I look forward to collaborating and learning together. If you have any questions or ideas, please don't hesitate to reach out. Let's make data analysis even more exciting! 💪
 
